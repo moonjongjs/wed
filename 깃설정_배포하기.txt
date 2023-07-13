@@ -1,0 +1,15 @@
+1. 
+git init
+
+2. 
+git config user.name 'moonjongjs'
+git config user.email 'moonseonjong@naver.com'
+
+3. 
+git remote add origin https://github.com/moonjongjs/wed.git
+git remote -v
+
+origin  https://github.com/moonjongjs/wed.git (fetch)
+origin  https://github.com/moonjongjs/wed.git (push)
+
+
